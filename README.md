@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BateQ
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 🥺 Cats > Dogs
